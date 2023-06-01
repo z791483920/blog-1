@@ -135,7 +135,7 @@ ast-plugin@^0.0.7:
 
 babel-polyfill@^6.26.0:
   version "6.26.0"
-  resolved "http://r.cnpmjs.org/babel-polyfill/download/babel-polyfill-6.26.0.tgz#379937abc67d7895970adc621f284cd966cf2153"
+  resolved "https://r.cnpmjs.org/babel-polyfill/download/babel-polyfill-6.26.0.tgz#379937abc67d7895970adc621f284cd966cf2153"
   integrity sha1-N5k3q8Z9eJWXCtxiHyhM2WbPIVM=
   dependencies:
     babel-runtime "^6.26.0"
@@ -144,7 +144,7 @@ babel-polyfill@^6.26.0:
 
 babel-runtime@^6.26.0:
   version "6.26.0"
-  resolved "http://r.cnpmjs.org/babel-runtime/download/babel-runtime-6.26.0.tgz#965c7058668e82b55d7bfe04ff2337bc8b5647fe"
+  resolved "https://r.cnpmjs.org/babel-runtime/download/babel-runtime-6.26.0.tgz#965c7058668e82b55d7bfe04ff2337bc8b5647fe"
   integrity sha1-llxwWGaOgrVde/4E/yM3vItWR/4=
   dependencies:
     core-js "^2.4.0"
@@ -273,7 +273,7 @@ concat-map@0.0.1:
 
 core-js@^2.4.0, core-js@^2.5.0:
   version "2.6.9"
-  resolved "http://r.cnpmjs.org/core-js/download/core-js-2.6.9.tgz#6b4b214620c834152e179323727fc19741b084f2"
+  resolved "https://r.cnpmjs.org/core-js/download/core-js-2.6.9.tgz#6b4b214620c834152e179323727fc19741b084f2"
   integrity sha1-a0shRiDINBUuF5Mjcn/Bl0GwhPI=
 
 cosmiconfig@^5.2.1:
@@ -701,7 +701,7 @@ lines-and-columns@^1.1.6:
 
 lint-md-cli@^0.1.1:
   version "0.1.1"
-  resolved "http://r.cnpmjs.org/lint-md-cli/download/lint-md-cli-0.1.1.tgz#2fca225ee84de8bc64989643f086414d2715d9bf"
+  resolved "https://r.cnpmjs.org/lint-md-cli/download/lint-md-cli-0.1.1.tgz#2fca225ee84de8bc64989643f086414d2715d9bf"
   integrity sha1-L8oiXuhN6LxkmJZD8IZBTScV2b8=
   dependencies:
     babel-polyfill "^6.26.0"
@@ -713,7 +713,7 @@ lint-md-cli@^0.1.1:
 
 lint-md@^0.2.0:
   version "0.2.0"
-  resolved "http://r.cnpmjs.org/lint-md/download/lint-md-0.2.0.tgz#65fcf30c42d4347164d42eb0db8c31a74c1f81b1"
+  resolved "https://r.cnpmjs.org/lint-md/download/lint-md-0.2.0.tgz#65fcf30c42d4347164d42eb0db8c31a74c1f81b1"
   integrity sha1-ZfzzDELUNHFk1C6w24wxp0wfgbE=
   dependencies:
     ast-plugin "^0.0.7"
@@ -996,9 +996,9 @@ path-key@^3.0.0:
   integrity sha1-maENhwqAO91e5vBHDljfzS+aVNM=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://r.cnpmjs.org/path-parse/download/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha1-1i27VnlAXXLEc37FhgDp3c8G0kw=
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-type@^4.0.0:
   version "4.0.0"
@@ -1049,12 +1049,12 @@ read-pkg@^5.1.1:
 
 regenerator-runtime@^0.10.5:
   version "0.10.5"
-  resolved "http://r.cnpmjs.org/regenerator-runtime/download/regenerator-runtime-0.10.5.tgz#336c3efc1220adcedda2c9fab67b5a7955a33658"
+  resolved "https://r.cnpmjs.org/regenerator-runtime/download/regenerator-runtime-0.10.5.tgz#336c3efc1220adcedda2c9fab67b5a7955a33658"
   integrity sha1-M2w+/BIgrc7dosn6tntaeVWjNlg=
 
 regenerator-runtime@^0.11.0:
   version "0.11.1"
-  resolved "http://r.cnpmjs.org/regenerator-runtime/download/regenerator-runtime-0.11.1.tgz#be05ad7f9bf7d22e056f9726cee5017fbf19e2e9"
+  resolved "https://r.cnpmjs.org/regenerator-runtime/download/regenerator-runtime-0.11.1.tgz#be05ad7f9bf7d22e056f9726cee5017fbf19e2e9"
   integrity sha1-vgWtf5v30i4Fb5cmzuUBf78Z4uk=
 
 remark-parse@^6.0.2:
